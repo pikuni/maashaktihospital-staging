@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<slideshow>
+<image>
+  <src>Animation/banner1.gif</src>
+  <link>http://www.maashaktihospital.com/</link>
+  <caption>best health care services</caption>
+  <text>
+    <colour>0x3c5947</colour>
+    <size>24</size>
+    <startx>220</startx>
+    <starty>200</starty>
+  </text>
+</image>
+<image>
+  <src>Animation/banner2.gif</src>
+  <link>http://www.maashaktihospital.com/</link>
+  <caption>with all medical facilities</caption>
+  <text>
+    <colour>0x3c5947</colour>
+    <size>24</size>
+    <startx>20</startx>
+    <starty>20</starty>
+  </text>
+</image>
+  <image>
+    <src>Animation/banner3.gif</src>
+    <link>http://www.maashaktihospital.com/</link>
+    <caption>click me</caption>
+    <text>
+      <colour>0x009900</colour>
+      <size>40</size>
+      <startx>300</startx>
+      <starty>240</starty>
+    </text>
+  </image>
+  <image>
+    <src>Animation/banner4.gif</src>
+    <link>http://www.maashaktihospital.com/</link>
+    <caption>click me</caption>
+    <text>
+      <colour>0x009900</colour>
+      <size>40</size>
+      <startx>300</startx>
+      <starty>240</starty>
+    </text>
+  </image>
+</slideshow>

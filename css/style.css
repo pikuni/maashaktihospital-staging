@@ -1042,7 +1042,7 @@ Elements
     z-index: 2;
     display: block;
     width: 240px; /* default width for blocks */
-    height: 250px; /* default height for blocks */
+    height: 100px; /* default height for blocks */
 }
 
 .cbp-filter-item {
@@ -1099,6 +1099,46 @@ Elements
     margin: 10px;
 }
 
+.item-box {
+  z-index: 2;
+  display: block;
+  transition: box-shadow .3s;
+  width: 230px;
+  height: 230px;
+  margin: 50px;
+  border-radius:10px;
+  border: 1px solid #ccc;
+  background: #fff;
+  float: left;
+  text-align: center;
+}
+
+.item-box2 {
+  z-index: 2;
+  display: block;
+  transition: box-shadow .3s;
+  width: auto;
+  height: auto;
+  margin: 50px;
+  border-radius:10px;
+  border: 1px solid #ccc;
+  background: #fff;
+  float: left;
+}
+
+.item-box3 {
+  text-align: center;
+}
+
+.img_border {
+  border-radius:5px;
+  border: 1px solid white;
+  padding: 5px 5px 5px 5px
+}
+
+.item-box:hover {
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
 .item img {
     display: block;
     width: 100%;
