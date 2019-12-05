@@ -1103,8 +1103,10 @@ Elements
   z-index: 2;
   display: block;
   transition: box-shadow .3s;
-  width: 230px;
-  height: 230px;
+  /* width: 230px;
+  height: 230px; */
+  min-width: 150px;
+  min-height: 150px;
   margin: 50px;
   border-radius:10px;
   border: 1px solid #ccc;
